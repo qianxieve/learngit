@@ -9,5 +9,5 @@ readm6 6
 dev repository
 Creating a new branch is quick.
 
-master repository
-Creating a new branch master 
+feature1 repository
+Creating a new branch feature1.
